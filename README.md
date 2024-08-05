@@ -3,6 +3,6 @@ This project focuses on enhancing user interface elements by implementing variou
 Hover Effects
 Raised Effects
 Gradient Effects
-git clone https://github.com/your-username/button-effects.git
+git clone https://github.com/SamreenAqeel955/Button-Effects-Using-HTML-and-CSS.git
 cd button-effects
 
